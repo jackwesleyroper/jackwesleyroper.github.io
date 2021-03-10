@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Jack Roper
-logo:
+logo: "assets/images/logo/logo-1.png"
 author: themefisher
 description: Jack Roper personal website
 email: jackwesleyroper@gmail.com
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: "assets/images/logo/logo-1.png"
+  hero-title: Jack Roper
 
 social:
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/jwroper/"}
@@ -286,7 +286,7 @@ client-slider-items:
   - logo: "assets/images/clients-logo/Az-Arch.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/Az-Devops.png"
+  - logo: "assets/images/clients-logo/AZ-Devops.png"
     url: "#"
     
   - logo: "assets/images/clients-logo/AZ-Sec.png"
