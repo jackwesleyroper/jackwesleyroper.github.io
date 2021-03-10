@@ -100,10 +100,9 @@ team:
 skills-title: Skills
 skills:
 - {name: Cloud, color: '#fdb157', value: '90%'}
-- {name: Azure, color: '#fdb157', value: '90%'}
+- {name: Azure, color: '#007fff', value: '90%'}
 - {name: DevOps, color: '#9473e6', value: '60%'}
-- {name: AWS, color: '#9473e6', value: '50%'}
-- {name: IaC, color: '#bdecf6', value: '65%'}
+- {name: AWS, color: '#FF9900', value: '50%'}
 - {name: Guitar, color: '#bdecf6', value: '80%'}
 - {name: Drums, color: '#bdecf6', value: '45%'}
 - {name: Mountain Biking, color: '#bdecf6', value: '70%'}
@@ -118,8 +117,8 @@ experience:
 - {name: Lead Consultant Specialist (Microsoft Azure), icon: 'icon-1.png', date: 'Jan 2019 - Present', organization: 'BT'}
 - {name: Systems Cloud Operations Engineer, icon: 'icon-2.png', date: 'May 2016 - April 2019', organization: 'Solarvista Software'}
 - {name: I.T. Infrastructure Technician, icon: 'icon-3.png', date: 'Nov 2014 - May 2016', organization: 'Spear & Jackson Group'}
-- {name: Network Infrastructure Engineer, icon: 'icon-3.png', date: 'Apr 2007 - Nov 2014', organization: 'Imagesound'}
-- {name: Senior I.T. Technician, icon: 'icon-3.png', date: 'Jul 2005 - Apr 2007', organization: 'Euro Dismantling Services'}
+- {name: Network Infrastructure Engineer, icon: 'icon-1.png', date: 'Apr 2007 - Nov 2014', organization: 'Imagesound'}
+- {name: Senior I.T. Technician, icon: 'icon-2.png', date: 'Jul 2005 - Apr 2007', organization: 'Euro Dismantling Services'}
 - {name: PC Support Analyst, icon: 'icon-3.png', date: 'Jul 2003 - Jul 2004', organization: 'BPB (British Gypsum)'}
 
 #-------------------------------
