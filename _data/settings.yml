@@ -271,34 +271,37 @@ testimonial-items:
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
+  - logo: "assets/images/clients-logo/AWS-1.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
+  - logo: "assets/images/clients-logo/AWS-2.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
+  - logo: "assets/images/clients-logo/terraform.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-4.png"
+  - logo: "assets/images/clients-logo/AZ-admin.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
+  - logo: "assets/images/clients-logo/Az-Arch.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-1.png"
+  - logo: "assets/images/clients-logo/Az-Devops.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
+  - logo: "assets/images/clients-logo/AZ-Sec.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
+  - logo: "assets/images/clients-logo/AZ-Fun.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-4.png"
+  - logo: "assets/images/clients-logo/MS-Fun.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
+  - logo: "assets/images/clients-logo/MS-Sec.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/OH-Containers.png"
     url: "#"
 
 #-------------------------------
