@@ -65,17 +65,17 @@ blurb-btn-name: know more
 
 # Work Process Section
 work-process:
-  - title : "Research and Plan"
+  - title : "DevOps"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Experienced in DevOps processes, CI/CD pipelines, Git, Azure DevOps"
     
-  - title : "Design and Develop"
+  - title : "Cloud Architecture & Administration"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Day to day experience administering Azure enviroments and architecting for large & complex projects in the cloud."
     
-  - title : "Deliver"
+  - title : "Infrastructure-as-code"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Comfortable with Terraform & ARM templates and Ansible configuration management."
 
 
 # My Team Section
