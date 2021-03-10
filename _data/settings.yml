@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Jack Roper
-logo: "assets/images/logo/logo-1.png"
+logo:
 author: themefisher
 description: Jack Roper personal website
 email: jackwesleyroper@gmail.com
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Currently under development!
+  hero-title: "assets/images/logo/logo-1.png"
 
 social:
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/jwroper/"}
@@ -98,7 +98,7 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Cloud, color: '#fdb157', value: '90%'}
+- {name: Cloud, color: '#bdecf6', value: '90%'}
 - {name: Microsoft Azure, color: '#007fff', value: '90%'}
 - {name: DevOps, color: '#9473e6', value: '60%'}
 - {name: Amazon AWS, color: '#FF9900', value: '50%'}
