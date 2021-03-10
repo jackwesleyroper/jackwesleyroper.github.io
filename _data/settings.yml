@@ -2,13 +2,13 @@
 # General Site Settings
 
 title: Jack Roper
-logo: 
+logo: "assets/images/logo/logo-1.png"
 author: themefisher
-description: this is meta description
+description: Jack Roper personal website
 email: jackwesleyroper@gmail.com
-phone: 
-address: 
-copyright:
+#phone: 
+#address: 
+#copyright:
 
 menu:
 - {name: About, link: '/about'}
@@ -56,8 +56,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+ An experienced IT professional focused on Cloud Technologies and DevOps, continually updating and improving my skills to keep pace with an ever changing industry.
 blurb-btn-link: '/about'
 blurb-btn-name: know more
 
@@ -100,9 +99,9 @@ team:
 skills-title: Skills
 skills:
 - {name: Cloud, color: '#fdb157', value: '90%'}
-- {name: Azure, color: '#007fff', value: '90%'}
+- {name: Microsoft Azure, color: '#007fff', value: '90%'}
 - {name: DevOps, color: '#9473e6', value: '60%'}
-- {name: AWS, color: '#FF9900', value: '50%'}
+- {name: Amazon AWS, color: '#FF9900', value: '50%'}
 - {name: Guitar, color: '#bdecf6', value: '80%'}
 - {name: Drums, color: '#bdecf6', value: '45%'}
 - {name: Mountain Biking, color: '#bdecf6', value: '70%'}
