@@ -115,18 +115,26 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
-
+- {name: Lead Consultant Specialist (Microsoft Azure), icon: 'icon-1.png', date: 'Jan 2019 - Present', organization: 'BT'}
+- {name: Systems Cloud Operations Engineer, icon: 'icon-2.png', date: 'May 2016 - April 2019', organization: 'Solarvista Software'}
+- {name: I.T. Infrastructure Technician, icon: 'icon-3.png', date: 'Nov 2014 - May 2016', organization: 'Spear & Jackson Group'}
+- {name: Network Infrastructure Engineer, icon: 'icon-3.png', date: 'Apr 2007 - Nov 2014', organization: 'Imagesound'}
+- {name: Senior I.T. Technician, icon: 'icon-3.png', date: 'Jul 2005 - Apr 2007', organization: 'Euro Dismantling Services'}
+- {name: PC Support Analyst, icon: 'icon-3.png', date: 'Jul 2003 - Jul 2004', organization: 'BPB (British Gypsum)'}
 
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: Education & Qualifications
 education:
-- {name: BSc Hons - Computing (Networks), date: '2002', organization: 'Sheffield Hallam University'}
-
+- {name: BSc Hons - Computing (Networks), date: '2005', organization: 'Sheffield Hallam University'}
+- {name: Azure Solutions Architect, date: '2021', organization: 'Microsoft'}
+- {name: Azure DevOps Engineer, date: '2020', organization: 'Microsoft'}
+- {name: Azure Administrator, date: '2020', organization: 'Microsoft'}
+- {name: Azure Security Administrator, date: '2021', organization: 'Microsoft'}
+- {name: Solutions Architect Associate, date: '2020', organization: 'AWS'}
+- {name: Terraform Associate, date: '2020', organization: 'Hashicorp'}
+- {name: 365 Security Administration, date: '2019', organization: 'Microsoft'}
 
 #-------------------------------
 # Services Section
@@ -245,20 +253,20 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "Charlotte Roper"
+    image: "assets/images/testimonial/client-1.jpg"
+    designation : "Wife"
+    content : "Jack is the best Husband i've ever had!"
     
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#  - name: "Jesica Gomez"
+#    image: "assets/images/testimonial/client-1.png"
+#    designation: "CEO, Funder"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#  - name: "Jesica Gomez"
+#    image: "assets/images/testimonial/client-1.png"
+#    designation: "CEO, Funder"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 
 #-------------------------------
