@@ -38,12 +38,17 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! Welcome to my Github Pages site! Currently under development!
+  hero-title: Currently under development!
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/jwroper/"}
+- {icon: "ti-github", link: "https://github.com/jackwesleyroper"}
+- {icon: "ti-twitter", link: "https://twitter.com/jackwesleyroper"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/jackwesleyroper"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/jackwesleyroper/"}
+- {icon: "ti-youtube", link: "https://www.youtube.com/channel/UCBqLQLU_ntpev_Fw6SqcrWg"}
+- {icon: "ti-soundcloud", link: "https://soundcloud.com/jwroper"}
+
 
 
 #-------------------------------
@@ -76,17 +81,17 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+  - title : "Charlotte Roper"
+    image : "assets/images/team/member-1.jpg"
+    designation : "Wife"
     
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+#  - title : "Julias Carlie"
+#    image : "assets/images/team/member-2.png"
+#    designation : "Web Developer"
     
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
+#  - title : "John Doe"
+#    image : "assets/images/team/member-3.png"
+#    designation : "Designer"
 
 
 #-------------------------------
@@ -94,11 +99,16 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
-
+- {name: Cloud, color: '#fdb157', value: '90%'}
+- {name: Azure, color: '#fdb157', value: '90%'}
+- {name: DevOps, color: '#9473e6', value: '60%'}
+- {name: AWS, color: '#9473e6', value: '50%'}
+- {name: IaC, color: '#bdecf6', value: '65%'}
+- {name: Guitar, color: '#bdecf6', value: '80%'}
+- {name: Drums, color: '#bdecf6', value: '45%'}
+- {name: Mountain Biking, color: '#bdecf6', value: '70%'}
+- {name: Pedal Building, color: '#bdecf6', value: '75%'}
+- {name: Cricket, color: '#bdecf6', value: '50%'}
 
 #-------------------------------
 # Exprerience Section
@@ -115,10 +125,7 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: BSc Hons - Computing (Networks), date: '2002', organization: 'Sheffield Hallam University'}
 
 
 #-------------------------------
@@ -127,23 +134,23 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Guitar Pedal Building,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
-- {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Need a guitar pedal? Check out the Red Mist Effects section!',
     active: true # Add true to select section
   }
-- {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
+#- {
+#    name: UX Design,
+#    icon: ti-vector,
+#    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+#    active: true # Add true to select section
+#  }
+#- {
+#    name: Interaction Design,
+#    icon: ti-panel,
+#    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+#    active: # Add true to select section
+#  }
 
 
 
@@ -292,4 +299,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: jackwesleyroper@gmail.com
