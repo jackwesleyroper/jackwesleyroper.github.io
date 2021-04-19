@@ -3,8 +3,9 @@
 | Rank | Band             | Album          |
 | ---- | ---------------- | -------------- |
 | 1.   | Killer be killed |	Reluctant Hero |
-| 2.| Deftones | Ohms |
+| 2.   | Deftones         | Ohms |
 | 3.| Nothing | The great dismal |
+
 4.	Sylosis	Cycle of suffering
 5.	Trivium	What the dead men say
 6.	All them witches	Nothing as the Ideal
