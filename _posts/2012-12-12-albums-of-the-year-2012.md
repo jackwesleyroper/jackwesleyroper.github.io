@@ -9,10 +9,9 @@ tags:
 
 Here are my top 50 albums of 2012 across all genres!
 
-0. Japandroids - Celebration Rock
-
 ![left-aligned-image](https://music4newgen.org/uploads/posts/2020-04/95c0191590e5bbf49051be7b5f516f61.jpg)
 
+0. Japandroids - Celebration Rock
 0. Deftones - Koi No Yokan
 0. Baroness - Yellow & Green
 0. Alt-J - An Awesome Wave
