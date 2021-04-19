@@ -53,38 +53,38 @@ My top albums of 2016, all genres. 2 months late, but there was a lot to listen 
 
 Some other stuff I listened to and was considered but wasn't good enough for the top 50 or I didn't listen to enough to form a proper opinion:
 
-Alter Bridge	The Last Hero
-Anthrax	For all kings
-Avenged Sevenfold	The Stage
-Bad Ideas	Bad Ideas
-Balance & Composure	Light we made
-Biffy Clyro	Ellipsis
-Black Foxxes	I'm not well
-Carnifex	Slow Death
-Cass McCombs	Mangy Love
-Conan	Revengence
-Conjurer	I [EP]
-Conor Oberst	Ruminations
-David Bowie	Blackstar
-Defeater	Abandoned
-Desolated	The End
-Hatebreed	The concrete confessional
-Hinds	Leave me alone
-Killswitch Engage	Incarnate
-King 810	Le Petit Mort Or a conversation with god
-Last Shadow Puppets	Everything You've Come To Expect
-Michael Kiwanuka	Love & Hate
-Muncie Girls	From Caplan to Belsize
-Nervus	Permenent Rainbow
-NOFX	First Ditch Effort
-Oathbreaker	Rheia
-Paws	No Grace
-PUP	The dream is over
-Slaves	Take Control
-Snoop Dogg	Coolaid
-The Dirty Nil	Higher Power
-Thrice	To be everywhere is to be nowhere
-Trap Them	Crown Feral
-White Lung	Paradise
-Winterfyllth	The Dark Hearafter
-Yuck	Stranger Things
+* Alter Bridge	The Last Hero
+* Anthrax	For all kings
+* Avenged Sevenfold	The Stage
+* Bad Ideas	Bad Ideas
+* Balance & Composure	Light we made
+* Biffy Clyro	Ellipsis
+* Black Foxxes	I'm not well
+* Carnifex	Slow Death
+* Cass McCombs	Mangy Love
+* Conan	Revengence
+* Conjurer	I [EP]
+* Conor Oberst	Ruminations
+* David Bowie	Blackstar
+* Defeater	Abandoned
+* Desolated	The End
+* Hatebreed	The concrete confessional
+* Hinds	Leave me alone
+* Killswitch Engage	Incarnate
+* King 810	Le Petit Mort Or a conversation with god
+* Last Shadow Puppets	Everything You've Come To Expect
+* Michael Kiwanuka	Love & Hate
+* Muncie Girls	From Caplan to Belsize
+* Nervus	Permenent Rainbow
+* NOFX	First Ditch Effort
+* Oathbreaker	Rheia
+* Paws	No Grace
+* PUP	The dream is over
+* Slaves	Take Control
+* Snoop Dogg	Coolaid
+* The Dirty Nil	Higher Power
+* Thrice	To be everywhere is to be nowhere
+* Trap Them	Crown Feral
+* White Lung	Paradise
+* Winterfyllth	The Dark Hearafter
+* Yuck	Stranger Things

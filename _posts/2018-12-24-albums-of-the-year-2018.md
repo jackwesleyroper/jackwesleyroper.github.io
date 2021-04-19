@@ -53,48 +53,48 @@ A decent year! Listened to plenty of music, list of others that didn't make the 
 49.	Tribulation	Down below	Black Metal	
 50.	Thee Oh Sees	Smote Reverser	Fuzz Rock	
 
-A Place To Bury Strangers	Pinned
-Alice In Chains	Rainer Fog
-Breeders	All Nerve
-Cloud Nothings	Last Building Burning
-Corrosion of conformity	No cross no crown
-Father John Misty	Gods favourite customer
-Feed The Rhino	The Silence
-King Nine	Death rattle
-Four Stroke Barron	Planet Silver Screen
-Greta Van Fleet	Anthem of the ppeaceful army
-Goggs	Pre Strike Sweep
-Joe Bonamassa	Redemption
-Kurokuma	Dope Rider
-Machine Head	Catharsis
-Melvins	Pinkus Abortion Technician
-MOL	Jord
-Ought	Room Inside the world
-Skeletonwitch	Devouring Radiant Light
-Slash	Living the dream
-Sleep	The Sciences
-Stephen Malkmus & The Jicks	Sparkle Hard
-Stone Temple Pilots	Stone Temple Pilots
-Temperance Movement	A Deeper Cut
-The Dirty Nil	Master volume
-Thrice	Palms
-Ty Segall	Freedoms Goblin
-Ty Segall	Fudge Sandwich
-Villagers	The Art of prentending to swim
-BC Camplight	Deportation Blues
-Visigoth	Conquerers oath
-Wonder Years	Sister Cities
-Marmozets	Knowing what you know now
-Tomb Mould	Manor of infinite forms
-Palm Reader	Braille
-Jeff Rosenstock	POST
-Django Django	Marble Skies
-Jonny Marr	Call the comet
-Restorations	LP5000
-Don Brocco	Technology
-Bleeding Through	Love will kill all
-Fiddlehead	Springtime and blind
-Culture Abuse	Bay Dream
-Vein	Errorzone
-Spanish Love Songs	Smaltz
-Xcerts	Hold on to your heart
+* A Place To Bury Strangers	Pinned
+* Alice In Chains	Rainer Fog
+* Breeders	All Nerve
+* Cloud Nothings	Last Building Burning
+* Corrosion of conformity	No cross no crown
+* Father John Misty	Gods favourite customer
+* Feed The Rhino	The Silence
+* King Nine	Death rattle
+* Four Stroke Barron	Planet Silver Screen
+* Greta Van Fleet	Anthem of the ppeaceful army
+* Goggs	Pre Strike Sweep
+* Joe Bonamassa	Redemption
+* Kurokuma	Dope Rider
+* Machine Head	Catharsis
+* Melvins	Pinkus Abortion Technician
+* MOL	Jord
+* Ought	Room Inside the world
+* Skeletonwitch	Devouring Radiant Light
+* Slash	Living the dream
+* Sleep	The Sciences
+* Stephen Malkmus & The Jicks	Sparkle Hard
+* Stone Temple Pilots	Stone Temple Pilots
+* Temperance Movement	A Deeper Cut
+* The Dirty Nil	Master volume
+* Thrice	Palms
+* Ty Segall	Freedoms Goblin
+* Ty Segall	Fudge Sandwich
+* Villagers	The Art of prentending to swim
+* BC Camplight	Deportation Blues
+* Visigoth	Conquerers oath
+* Wonder Years	Sister Cities
+* Marmozets	Knowing what you know now
+* Tomb Mould	Manor of infinite forms
+* Palm Reader	Braille
+* Jeff Rosenstock	POST
+* Django Django	Marble Skies
+* Jonny Marr	Call the comet
+* Restorations	LP5000
+* Don Brocco	Technology
+* Bleeding Through	Love will kill all
+* Fiddlehead	Springtime and blind
+* Culture Abuse	Bay Dream
+* Vein	Errorzone
+* Spanish Love Songs	Smaltz
+* Xcerts	Hold on to your heart

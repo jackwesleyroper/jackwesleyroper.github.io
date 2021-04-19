@@ -53,31 +53,31 @@ Top 50 Albums of 2017 (2 months late):
 
 Other stuff I listened to but either didn't form a proper opinion on, or didn't make the top 50:
 
-Malevolence	Self Supremacy
-Downtown Boys	Cost of living
-Creeper	Eternity on your arms
-Ryan Adams	Prisoner
-Iron Reagan	Crossover Ministry
-Japandroids	Near to the wild heart of life
-Foo Fighters	Concrete and Gold
-Everything Everything	A Fever Dream
-Neck Deep	The Peace and the panic
-Arcade Fire	Everything Now
-Waxahatchee	Out in the storm
-Weezer	Pacific Daydream
-Alpha Wolf	Mono
-Wolf Alice	Visions Of A Life
-Kamakazie Girls	Seafoam
-AFI	The blood album
-While She Sleeps	You are we
-Blood Command	Cult Drugs
-Mac Demarco	This Old Dog
-Get the shot	Infinite punishment
-Black Dhalia Murder	Nightbringers
-Pallbearer	Heartless
-Sorority Noise	You're not as ___as you think
-Glassjaw	Material Control
-Chelsea Wolfe	Hiss Spun
-HAIM	Want you back
-Quicksand	Interiors
-Conor Oberst	Saluations
+* Malevolence	Self Supremacy
+* Downtown Boys	Cost of living
+* Creeper	Eternity on your arms
+* Ryan Adams	Prisoner
+* Iron Reagan	Crossover Ministry
+* Japandroids	Near to the wild heart of life
+* Foo Fighters	Concrete and Gold
+* Everything Everything	A Fever Dream
+* Neck Deep	The Peace and the panic
+* Arcade Fire	Everything Now
+* Waxahatchee	Out in the storm
+* Weezer	Pacific Daydream
+* Alpha Wolf	Mono
+* Wolf Alice	Visions Of A Life
+* Kamakazie Girls	Seafoam
+* AFI	The blood album
+* While She Sleeps	You are we
+* Blood Command	Cult Drugs
+* Mac Demarco	This Old Dog
+* Get the shot	Infinite punishment
+* Black Dhalia Murder	Nightbringers
+* Pallbearer	Heartless
+* Sorority Noise	You're not as ___as you think
+* Glassjaw	Material Control
+* Chelsea Wolfe	Hiss Spun
+* HAIM	Want you back
+* Quicksand	Interiors
+* Conor Oberst	Saluations

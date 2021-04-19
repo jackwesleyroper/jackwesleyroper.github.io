@@ -55,60 +55,60 @@ A little late but here are my top 50 of 2019.
 
 Others considered that didn't make the cut, in no particular order:
 
-Deerhunter	Why hasn't everything disapeared?
-The Twilight Sad	It wont be like this all the time
-Fever 333	Strength in Numb333rs
-Yak	Pursuit of momentary happiness
-Bilge Pump	We Love You
-King 810	Suicide King
-Pond	Tasmania
-Feels	Post Earth
-Swervedriver	Future Ruins
-Sigrid	Sucker Punch
-Children of Bodom	Hexed
-Oozing Wound	High Anxiety
-Devin Townsend	Empath
-White Denim	Side Effects
-The Coathangers	The devil you know
-Ty Segall	Deforming Lobes
-Proper Ornaments	Six Lenins
-Weyes Blood	Titanic Rising
-The damned things	High crimes
-Sebadoh	Act Suprised
-Heart of a coward	The disconnect
-Torche	Admission
-Black Midi	Schlagenheim
-The Raconteurs	Help us stranger
-Snapped Ankles	Stunning Luxury
-Thee Oh Sees	Face Stabber
-Hold Steady	Thrashing Through the passion
-Frank Turner	No Mans Land
-Killswitch Engage	Atonement
-Sheer Mag	A Distant Call
-Tropical Fuck Storn	Braindrops
-Whitney	Forever Turned Around
-Pixies	Beneath the eyrie
-Temples	Hot Motion
-Pixx	Small Mercies
-Big Theif	Two Hands
-Elbow	Giants of all sizes
-Mikal Cronin	Seeker
-Desert Sesions	vol 11&12
-Jimmy Eat World	Surviving
-Omni	Networker
-Max Cooper	Yearning for the infinite
-Alcest	Spiritual Instinct
-Whitechapel	The Valley
-Crows	Silver Tounges
-Venom Prison	Samsara
-Mark Morton	Anesthetic
-Cheekface	Therapy Island
-Defeater	Defeater
-Vampire Weekend	Father of the bride
-Angel Du$t	Pretty Buff
-Methyl Ethyl	Triage
-Cherry Glazerr	Stuffed & Ready
-Gary Clarke Jr.	This Land
-Bob Mould	Sunshine Rock
-The Yummy Fur	Piggy Wings
-Ty Segall	First Taste
+* Deerhunter	Why hasn't everything disapeared?
+* The Twilight Sad	It wont be like this all the time
+* Fever 333	Strength in Numb333rs
+* Yak	Pursuit of momentary happiness
+* Bilge Pump	We Love You
+* King 810	Suicide King
+* Pond	Tasmania
+* Feels	Post Earth
+* Swervedriver	Future Ruins
+* Sigrid	Sucker Punch
+* Children of Bodom	Hexed
+* Oozing Wound	High Anxiety
+* Devin Townsend	Empath
+* White Denim	Side Effects
+* The Coathangers	The devil you know
+* Ty Segall	Deforming Lobes
+* Proper Ornaments	Six Lenins
+* Weyes Blood	Titanic Rising
+* The damned things	High crimes
+* Sebadoh	Act Suprised
+* Heart of a coward	The disconnect
+* Torche	Admission
+* Black Midi	Schlagenheim
+* The Raconteurs	Help us stranger
+* Snapped Ankles	Stunning Luxury
+* Thee Oh Sees	Face Stabber
+* Hold Steady	Thrashing Through the passion
+* Frank Turner	No Mans Land
+* Killswitch Engage	Atonement
+* Sheer Mag	A Distant Call
+* Tropical Fuck Storn	Braindrops
+* Whitney	Forever Turned Around
+* Pixies	Beneath the eyrie
+* Temples	Hot Motion
+* Pixx	Small Mercies
+* Big Theif	Two Hands
+* Elbow	Giants of all sizes
+* Mikal Cronin	Seeker
+* Desert Sesions	vol 11&12
+* Jimmy Eat World	Surviving
+* Omni	Networker
+* Max Cooper	Yearning for the infinite
+* Alcest	Spiritual Instinct
+* Whitechapel	The Valley
+* Crows	Silver Tounges
+* Venom Prison	Samsara
+* Mark Morton	Anesthetic
+* Cheekface	Therapy Island
+* Defeater	Defeater
+* Vampire Weekend	Father of the bride
+* Angel Du$t	Pretty Buff
+* Methyl Ethyl	Triage
+* Cherry Glazerr	Stuffed & Ready
+* Gary Clarke Jr.	This Land
+* Bob Mould	Sunshine Rock
+* The Yummy Fur	Piggy Wings
+* Ty Segall	First Taste

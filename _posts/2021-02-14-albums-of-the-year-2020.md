@@ -53,55 +53,55 @@
 
 Other Stuff I listened to:
 
-ACDC	Power Up
-Anaal Nathrakh	Endarkenment
-Best Coast	Always Tomorrow
-Black Dhalia Murder	Verminous
-Black Lips	Sing in a world thats falling apart
-Bleed from within	Fracture
-Body Count	Carnivore
-Boston Manor	Glue
-Bright Eyes	Down in the weeds, where the world once was
-Bully	SUGAREGG
-Cant swim	When the dust settles
-Chubby and the gang	Speed Kills
-Creeper	Sex, Death and the Infinite Void
-Elder	Omens
-EOB	Earth
-Fleet Foxes	Shore
-Fontaines DC	A heros death
-Glass Animals	Dreamland
-Hatebreed	Weight of the false self
-Higher Power	27 Miles Underwater
-Hyborian	Volume II
-Levellers	Peace
-Loathe	I let it in and it took everything
-Maggot Heart	Mercy Machine
-Marilyn Manson	WE ARE CHAOS
-Mark Lanegan	Straight songs of sorrow
-Metallica	S&M2
-Milk Teeth	Milk Teeth
-Mrs Piss	Self surgery
-My morning jacket	The waterfall II
-Neck Deep	All distortions are intentional
-Pallbearer	Forgotton days
-Palm Reader	Sleepless
-Pearl Jam	Gigaton
-Pigs x7	Viserals
-Pixies	Beneath the eyrie
-Puppy	iii
-PVRIS	Use me
-Slowbleed	Never been worse
-Smashing Pumpkins	CYR
-Soccer Mommy	Color Theory
-Spanish Love Songs	Brave Faces Everyone
-Stephen Malkumus	Traditional Techniques
-The Chats	High Risk Behaviour
-The Struts	Strange Days
-The Wytches	Three Mile Ditch
-Thurston Moore	By the fire
-Tired Lion	Breakfast for pathetics
-Touche Amore	Lament
-Ulver	Flowers of evil
-Unleash the archers	Abyss
-White denim	world as a waiting room
+* ACDC	Power Up
+* Anaal Nathrakh	Endarkenment
+* Best Coast	Always Tomorrow
+* Black Dhalia Murder	Verminous
+* Black Lips	Sing in a world thats falling apart
+* Bleed from within	Fracture
+* Body Count	Carnivore
+* Boston Manor	Glue
+* Bright Eyes	Down in the weeds, where the world once was
+* Bully	SUGAREGG
+* Cant swim	When the dust settles
+* Chubby and the gang	Speed Kills
+* Creeper	Sex, Death and the Infinite Void
+* Elder	Omens
+* EOB	Earth
+* Fleet Foxes	Shore
+* Fontaines DC	A heros death
+* Glass Animals	Dreamland
+* Hatebreed	Weight of the false self
+* Higher Power	27 Miles Underwater
+* Hyborian	Volume II
+* Levellers	Peace
+* Loathe	I let it in and it took everything
+* Maggot Heart	Mercy Machine
+* Marilyn Manson	WE ARE CHAOS
+* Mark Lanegan	Straight songs of sorrow
+* Metallica	S&M2
+* Milk Teeth	Milk Teeth
+* Mrs Piss	Self surgery
+* My morning jacket	The waterfall II
+* Neck Deep	All distortions are intentional
+* Pallbearer	Forgotton days
+* Palm Reader	Sleepless
+* Pearl Jam	Gigaton
+* Pigs x7	Viserals
+* Pixies	Beneath the eyrie
+* Puppy	iii
+* PVRIS	Use me
+* Slowbleed	Never been worse
+* Smashing Pumpkins	CYR
+* Soccer Mommy	Color Theory
+* Spanish Love Songs	Brave Faces Everyone
+* Stephen Malkumus	Traditional Techniques
+* The Chats	High Risk Behaviour
+* The Struts	Strange Days
+* The Wytches	Three Mile Ditch
+* Thurston Moore	By the fire
+* Tired Lion	Breakfast for pathetics
+* Touche Amore	Lament
+* Ulver	Flowers of evil
+* Unleash the archers	Abyss
+* White denim	world as a waiting room

@@ -138,31 +138,31 @@ Evoking images of a windswept Mexican dust-bowl, this album is great fun and inc
 
 
 Other honourable mentions in no particular order:
-Alestorm - Back Through Time
-Protest the Hero - Scurrilous
-The Defiled – Grave Times
-The Strokes - Angles
-The Vaccines - What Did You Expect From The Vaccines?
-Bon Iver - Bon Iver
-Sepultura - Kairos
-The Pains of Being Pure at Heart - Belong
-Male Bonding - Endless Now
-WU LYF - Go Tell Fire to the Mountain
-Rise Against - Endgame
-Chimp Spanner - At the Dream's Edge
-Chickenfoot - III
-TesseracT – One
-Girls – Father, Son, Holy Ghost
-Arctic Monkeys - Suck It and See
-Red Hot Chili Peppers - I'm With You
-Aliases - Safer Than Reality
-Beth Hart and Joe Bonamassa - Don't Explain
-Smith Westerns - Dye It Blonde
-Milk Maid - Yucca
-The Arusha Accord - The Echo Verses
-Havok - Time Is Up
-Arch Enemy - Khaos Legions
-Savage Messiah - Insurrection Rising
-Fucked Up - David Comes to Life
-Fleet Foxes - Helplessness Blues
-Metronomy – The English Riviera
+* Alestorm - Back Through Time
+* Protest the Hero - Scurrilous
+* The Defiled – Grave Times
+* The Strokes - Angles
+* The Vaccines - What Did You Expect From The Vaccines?
+* Bon Iver - Bon Iver
+* Sepultura - Kairos
+* The Pains of Being Pure at Heart - Belong
+* Male Bonding - Endless Now
+* WU LYF - Go Tell Fire to the Mountain
+* Rise Against - Endgame
+* Chimp Spanner - At the Dream's Edge
+* Chickenfoot - III
+* TesseracT – One
+* Girls – Father, Son, Holy Ghost
+* Arctic Monkeys - Suck It and See
+* Red Hot Chili Peppers - I'm With You
+* Aliases - Safer Than Reality
+* Beth Hart and Joe Bonamassa - Don't Explain
+* Smith Westerns - Dye It Blonde
+* Milk Maid - Yucca
+* The Arusha Accord - The Echo Verses
+* Havok - Time Is Up
+* Arch Enemy - Khaos Legions
+* Savage Messiah - Insurrection Rising
+* Fucked Up - David Comes to Life
+* Fleet Foxes - Helplessness Blues
+* Metronomy – The English Riviera
