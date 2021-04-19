@@ -16,23 +16,23 @@
 | 12.|	Paradise Lost |	Obsidian |
 | 13.|	Waxahatchee |	Saint Cloud |
 | 14.|	Bruce Springsteen |	Letter to you |
-| 15.|	Gulch |	Impenetrable celebral fortress |
+| 15.|	Gulch |	Impenetrable cerebral fortress |
 | 16.|	Biffy Clyro |	A celebration of endings |
 | 17.|	Dool |	Summerland |
 | 18.|	Dogleg |	Melee |
 | 19.|	Lamb of god |	Lamb of god |
 | 20.|	Phoxjaw |	Royal Swan |
 | 21.|	Four Tet |	Sixteen Oceans |
-| 22.|	Sharptooth |	Transisitonal forms |
+| 22.|	Sharptooth |	Transitional forms |
 | 23.|	The Hell |	Joris |
-| 24.|	Bury Tommorrow |	Cannibal |
+| 24.|	Bury Tomorrow |	Cannibal |
 | 25.|	Caribou |	Suddenly |
 | 26.|	Gold Key |	Panic Machine |
 | 27.|	Honey Joy |	ii |
 | 28.|	Ozzy Osbourne |	Ordinary Man |
 | 29.|	Phobe Bridges |	Punisher |
 | 30.|	Pinegrove |	Marigold |
-| 31.|	Protomartyr |	Ultimate sucess today |
+| 31.|	Protomartyr |	Ultimate success today |
 | 32.|	Jamie Lenman |	King of clubs |
 | 33.|	Svalbard |	When i die, will i get better? |
 | 34.|	Rolling Costal Blackouts Fever |	Sideways to new Italy |
@@ -86,7 +86,7 @@ Other Stuff I listened to:
 * Mrs Piss	Self surgery
 * My morning jacket	The waterfall II
 * Neck Deep	All distortions are intentional
-* Pallbearer	Forgotton days
+* Pallbearer	Forgotten days
 * Palm Reader	Sleepless
 * Pearl Jam	Gigaton
 * Pigs x7	Viserals
@@ -98,7 +98,7 @@ Other Stuff I listened to:
 * Soccer Mommy	Color Theory
 * Spanish Love Songs	Brave Faces Everyone
 * Stephen Malkumus	Traditional Techniques
-* The Chats	High Risk Behaviour
+* The Chats	High Risk Behavior
 * The Struts	Strange Days
 * The Wytches	Three Mile Ditch
 * Thurston Moore	By the fire
