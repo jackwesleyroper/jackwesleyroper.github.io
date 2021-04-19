@@ -1,0 +1,1 @@
+I only went to one gig this year due to the pandemic, Slipknot at the Sheffield Arena in January supported by Behemoth. :(
