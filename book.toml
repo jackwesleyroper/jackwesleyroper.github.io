@@ -1,0 +1,6 @@
+[book]
+authors = ["Jack Roper"]
+language = "en"
+multilingual = false
+src = "src"
+title = "devops-dictionary"
